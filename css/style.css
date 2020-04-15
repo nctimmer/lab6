@@ -32,3 +32,15 @@
 	position: relative;
 	display: block;
 }
+
+#sidebar {
+	position: fixed;
+	right: 0%;
+	background-color: red;
+	height: 100%;
+	width: 20%;
+}
+
+#sidebar-contatiner ul {
+	
+}
